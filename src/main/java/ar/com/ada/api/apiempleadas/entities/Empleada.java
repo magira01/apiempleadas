@@ -5,7 +5,6 @@ import java.util.*;
 
 import javax.persistence.*;
 
-
 @Entity
 @Table(name = "empleada")
 public class Empleada {
